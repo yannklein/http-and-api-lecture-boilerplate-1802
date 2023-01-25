@@ -9,20 +9,23 @@ cd http-and-api-lecture-boilerplate
 rm -rf .git
 code . # Open this folder in your text editor
 ```
+---
 
 ## Fetch an activity with the Bored API
 
-**endpoint**
+#### endpoint
 https://www.boredapi.com/api/activity/
 
-**documentation**
+#### documentation
 http://www.boredapi.com/documentation#endpoints-random
+
 
 ## Goal
 
 - Click the button
 - Fetch an activity using fetch
 - Insert the activity into the DOM
+
 
 ## Specs
 
