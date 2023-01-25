@@ -9,7 +9,6 @@ cd http-and-api-lecture-boilerplate
 rm -rf .git
 code . # Open this folder in your text editor
 ```
----
 
 ## Fetch an activity with the Bored API
 
