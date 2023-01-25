@@ -12,8 +12,11 @@ code . # Open this folder in your text editor
 
 ## Fetch an activity with the Bored API
 
-<p>endpoint: https://www.boredapi.com/api/activity/</p>
-<p>documentation: http://www.boredapi.com/documentation#endpoints-random</p>
+**endpoint**
+https://www.boredapi.com/api/activity/
+
+**documentation**
+http://www.boredapi.com/documentation#endpoints-random
 
 ## Goal
 
