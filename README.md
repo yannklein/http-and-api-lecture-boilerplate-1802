@@ -3,7 +3,7 @@
 First clone this repository to your laptop:
 
 ```bash
-cd ~/code/<your_github_nickname>
+cd ~/code/YOUR_GITHUB_USERNAME
 git clone git@github.com:lewagon/http-and-api-boilerplate.git http-and-api-lecture-boilerplate
 cd http-and-api-lecture-boilerplate
 rm -rf .git
