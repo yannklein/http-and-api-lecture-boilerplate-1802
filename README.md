@@ -28,8 +28,10 @@ http://www.boredapi.com/documentation#endpoints-random
 
 ## Specs
 
-Open the html page in your browser with:
+Launch your local webserver with:
 
 ```bash
-open index.html
+serve
 ```
+
+Open [`localhost:8000`](http://localhost:8000) in your browser.
